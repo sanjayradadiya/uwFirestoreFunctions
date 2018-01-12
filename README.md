@@ -1,0 +1,2 @@
+# to update elasticsearch function with firebase cloude function
+# firebase functions:config:set elasticsearch.username="user" elasticsearch.password="akp4x6baPACc " elasticsearch.url="http://35.188.189.214/elasticsearch/"
